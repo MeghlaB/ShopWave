@@ -1,6 +1,6 @@
 # ShopWave — Premium Tech E-Commerce Store
 
-![ShopWave Preview](https://image.thum.io/get/https://shopwave-three.vercel.app/)
+![ShopWave Preview](public/screenshot.png)
 
 A modern, responsive e-commerce storefront built with **Next.js 16**, **Firebase Authentication**, and **Tailwind CSS**. ShopWave showcases premium electronics with product browsing, secure login, protected management pages, and a polished UI.
 
