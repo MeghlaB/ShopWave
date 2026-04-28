@@ -85,7 +85,7 @@ const LoginForm = () => {
       toast.success("Welcome to ShopWave!");
       router.push(from);
     } catch (err: unknown) {
-      // REDIRECT_INITIATED means the page is about to navigate — not an error
+     
       if (err instanceof Error && err.message === "REDIRECT_INITIATED") {
         toast.loading("Redirecting to Google…", { duration: 4000 });
         return;

@@ -44,7 +44,7 @@ const NotFound = () => {
                     </Link>
                 </div>
 
-                {/* --- Quick Links / Help Section --- */}
+                {/* --- Help Section --- */}
                 <div className="border-t border-slate-100 pt-8">
                     <p className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-6">Need Assistance?</p>
                     <div className="flex flex-wrap justify-center gap-8 text-slate-500">
